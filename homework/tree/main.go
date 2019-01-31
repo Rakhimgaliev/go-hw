@@ -1,11 +1,11 @@
 package main
 
 import (
-	"fmt"
-	"io"
+//	"fmt"
+//	"io"
 	"os"
-	"path/filepath"
-	"strings"
+//	"path/filepath"
+//	"strings"
 )
 
 func main() {
